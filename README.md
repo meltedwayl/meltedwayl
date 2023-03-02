@@ -6,7 +6,11 @@
 * 📫 How to reach me: Discord: Samzz#7849 Email: meltedwaylrblx@gmail.com
 * ❤️ I love programming
 
+<hr/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meltedwayl&ayout=compact&show_icons=true&theme=dark"/>
+
+<hr/>
 
 ### Experienced In
 
