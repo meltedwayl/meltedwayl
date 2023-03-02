@@ -10,4 +10,4 @@
 
 ### Languages & Librarys
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg&height=42&width=42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=42 width=42 />
