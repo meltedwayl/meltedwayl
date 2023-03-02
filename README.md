@@ -26,6 +26,7 @@
 <p align="center">
 	<a href="meltedwaylrblx@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/meltedwayl"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="Samzz#7849"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
 	
 </p>
 
