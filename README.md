@@ -28,3 +28,8 @@
 	<a href="https://github.com/meltedwayl"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	
 </p>
+
+<hr/>
+
+* Credit: [meltedwayl](https://github.com/meltedwayl)
+* Last Edited on: 02/02/2023
