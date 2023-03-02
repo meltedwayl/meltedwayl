@@ -10,7 +10,7 @@
 
 ### Languages & Librarys
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 ![7564189_c_logo_plus plus_plus_+ +_icon (1)](https://user-images.githubusercontent.com/114309119/222297026-a37f15c1-b6bd-46dc-afa7-c71dbf6998d5.png) 
 ![4691310_lua_icon](https://user-images.githubusercontent.com/114309119/222297059-68c3e085-8c82-48e1-a93c-828eb6d9fd9a.png) 
 ![9035061_logo_javascript_icon](https://user-images.githubusercontent.com/114309119/222297158-7cc56a0a-936e-4793-a36c-d4b642df2a2e.png) 
