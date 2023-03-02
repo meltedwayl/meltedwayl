@@ -21,3 +21,10 @@
 ### Software
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height=42 width=42 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=42 width=42 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height=42 width=42 />
+
+## 🙋‍♀️ Connect With Me
+<p align="center">
+	<a href="meltedwaylrblx@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/meltedwayl"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	
+</p>
