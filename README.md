@@ -3,7 +3,7 @@
 * 👩 Pronouns: He/Him
 * 🔭 I’m currently working on simplyRanking
 * 🌱 I’m currently learning C#
-* 📫 How to reach me: Discord: Samzz#7849 Email: meltedwaylrblx@gmail.com
+* 📫 Quick Contact: Discord: Samzz#7849
 * ❤️ I love programming
 
 <hr/>
