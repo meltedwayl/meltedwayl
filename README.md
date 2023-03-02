@@ -10,4 +10,4 @@
 
 ### Languages
 
-![7564189_c_logo_plus plus_plus_+ +_icon (1)](https://user-images.githubusercontent.com/114309119/222297026-a37f15c1-b6bd-46dc-afa7-c71dbf6998d5.png)
+![7564189_c_logo_plus plus_plus_+ +_icon (1)](https://user-images.githubusercontent.com/114309119/222297026-a37f15c1-b6bd-46dc-afa7-c71dbf6998d5.png) ![4691310_lua_icon](https://user-images.githubusercontent.com/114309119/222297059-68c3e085-8c82-48e1-a93c-828eb6d9fd9a.png)
